@@ -92,7 +92,7 @@ function Homeworks() {
           <th scope="row">6</th>
           <td>Homework 5.2</td>
           <td>frontier Challenge </td>
-          <td><a href=" "> View Result</a> </td>
+          <td><a href=" https://codepen.io/tiannalopes/pen/yLMvBYg"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/frontierChallenge">Link to Code</a> </td>
       </tr>
       <tr>
