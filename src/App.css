@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: lavenderblush;
 }
 
 .App-logo {
@@ -12,6 +13,30 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.display-3{
+    background-color: lavenderblush;
+  }
+  .lead{
+    background-color: lavenderblush;
+  
+  }
+  td {
+      background-color: lavenderblush;
+
+  }
+h1{
+   color:darkgray;
+  }
+
+  p {
+   color:darkgray;
+  }
+
+  .table>:not(Caption)>*>*{
+    background-color: lavenderblush;
+    border-bottom: 0px;
+    color:darkgray;
+  }
 
 .App-header {
   background-color: #282c34;
