@@ -106,8 +106,8 @@ function Homeworks() {
           <th scope="row">6</th>
           <td>Homework 6.1</td>
           <td>Cascade to vanilla javascript boilerplate</td>
-          <td><a href=""> View Result</a> </td>
-          <td><a href="hts://github.com/TiannaLopes/CascadeProject">Link to Code</a> </td>
+          <td><a href="https://cnn.com"> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/CascadeProject">Link to Code</a> </td>
 </tr>
  
       <tr>
