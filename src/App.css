@@ -13,45 +13,45 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-.display-3{
-    background-color: lavenderblush;
-  }
-  .lead{
-    background-color: lavenderblush;
-  
-  }
-  td {
-      background-color: lavenderblush;
-
-  }
 h1{
-   color:darkgray;
-  }
-
-  p {
-   color:darkgray;
-  }
-
-  .table>:not(Caption)>*>*{
-    background-color: lavenderblush;
-    border-bottom: 0px;
-    color:darkgray;
-  }
+  color:darkgray;
+}
+p{
+  color:darkgray;
+}
+.table>:not(Caption)>*>*{
+  background-color: lavenderblush;
+  border-bottom: 0px;
+  color:darkgray;
+}
 
 .App-header {
-  background-color: #282c34;
+  background-color: #61dafb;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #e6e6fa;
 }
 
 .App-link {
   color: #61dafb;
 }
+.display-3{
+  background-color: lavenderblush;
+}
+.lead{
+  background-color: lavenderblush;
+
+}
+
+/* 
+Jumbotron {
+  color: #fff0f5;
+  background-color: lavenderblush;
+} */
 
 @keyframes App-logo-spin {
   from {
@@ -60,4 +60,13 @@ h1{
   to {
     transform: rotate(360deg);
   }
+}
+
+a {
+  text-decoration: none;
+  color:darkgray;
+}
+
+a:hover{
+  color:pink;
 }

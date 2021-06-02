@@ -81,7 +81,7 @@ function Homeworks() {
           <td><a href="https://codepen.io/tiannalopes/pen/ExWbYVd?editors=1111"> Link to Code</a> </td>
       </tr>
       <tr>
-          <th scope="row">6</th>
+          <th scope="row">7</th>
           <td>Homework 5.1</td>
           <td>Theme Change </td>
           <td><a href="https://codepen.io/tiannalopes/pen/bGqYPPz?editors=0011"> View Result</a> </td>
@@ -89,29 +89,50 @@ function Homeworks() {
       </tr>
 
       <tr>
-          <th scope="row">6</th>
+          <th scope="row">8</th>
           <td>Homework 5.2</td>
           <td>frontier Challenge </td>
           <td><a href=" https://codepen.io/tiannalopes/pen/yLMvBYg"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/frontierChallenge">Link to Code</a> </td>
       </tr>
       <tr>
-          <th scope="row">6</th>
+          <th scope="row">9</th>
           <td>Homework 5.3</td>
           <td>Algo Expert </td>
           <td><a href="https://codepen.io/tiannalopes/pen/bGqYPPz?editors=0011"> View Result</a> </td>
           <td><a href="https://codepen.io/tiannalopes/pen/bGqYPPz?editors=0011">Link to Code</a> </td>
 </tr>
     <tr>
-          <th scope="row">6</th>
+          <th scope="row">10</th>
           <td>Homework 6.1</td>
           <td>Cascade to vanilla javascript boilerplate</td>
           <td><a href="https://cnn.com"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/CascadeProject">Link to Code</a> </td>
 </tr>
- 
+    <tr>
+          <th scope="row">11</th>
+          <td>Homework 7.1</td>
+          <td>Watch Videos and Practice JS </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/LYWQOYo"> View Result</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/LYWQOYo">Link to Code</a> </td>
+</tr>
+
+    <tr>
+          <th scope="row">12</th>
+          <td>Homework 8.1</td>
+          <td> Teleport Exercise </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/LYWQOYo"> View Result</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/LYWQOYo">Link to Code</a> </td>
+</tr>
+    <tr>
+          <th scope="row">13</th>
+          <td>Homework 10.1</td>
+          <td> HTML Question</td>
+          <td><a href="https://codepen.io/tiannalopes/pen/MWpQOPL"> View Result</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/MWpQOPL">Link to Code</a> </td>
+</tr>
       <tr>
-      <th scope="row">4</th>
+      <th scope="row">x</th>
           <td>Extra Practice </td>
           <td>Extra practice for Javascript </td>
           <td><a href="https://codepen.io/tiannalopes/pen/OJpOQqg"> View Result</a> </td>
