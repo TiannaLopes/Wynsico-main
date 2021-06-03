@@ -121,8 +121,8 @@ function Homeworks() {
           <th scope="row">12</th>
           <td>Homework 8.1</td>
           <td> Teleport Exercise </td>
-          <td><a href="https://github.com/TiannaLopes/Palidrome"> View Result</a> </td>
-          <td><a href="https://github.com/TiannaLopes/Palidrome">Link to Code</a> </td>
+          <td><a href="https://github.com/TiannaLopes/teleport-acme"> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/teleport-acme">Link to Code</a> </td>
 </tr>
  <tr>
           <th scope="row">13</th>
