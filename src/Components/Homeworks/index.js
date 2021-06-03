@@ -121,11 +121,25 @@ function Homeworks() {
           <th scope="row">12</th>
           <td>Homework 8.1</td>
           <td> Teleport Exercise </td>
-          <td><a href="https://codepen.io/tiannalopes/pen/LYWQOYo"> View Result</a> </td>
-          <td><a href="https://codepen.io/tiannalopes/pen/LYWQOYo">Link to Code</a> </td>
+          <td><a href="https://github.com/TiannaLopes/Palidrome"> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/Palidrome">Link to Code</a> </td>
+</tr>
+ <tr>
+          <th scope="row">13</th>
+          <td>Homework 8.2</td>
+          <td> SSCSS - change theme when break point is at mobile </td>
+          <td><a href="hhttps://codepen.io/tiannalopes/pen/WNpMaYo"> View Result</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/WNpMaYo">Link to Code</a> </td>
+</tr>
+ <tr>
+          <th scope="row">14</th>
+          <td>Homework 8.3</td>
+          <td> Palindrome Problem </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/MWpVwEJ"> View Result</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/MWpVwEJ">Link to Code</a> </td>
 </tr>
     <tr>
-          <th scope="row">13</th>
+          <th scope="row">15</th>
           <td>Homework 10.1</td>
           <td> HTML Question</td>
           <td><a href="https://codepen.io/tiannalopes/pen/MWpQOPL"> View Result</a> </td>
