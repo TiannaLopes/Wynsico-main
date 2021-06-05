@@ -145,6 +145,13 @@ function Homeworks() {
           <td><a href="https://codepen.io/tiannalopes/pen/MWpQOPL"> View Result</a> </td>
           <td><a href="https://codepen.io/tiannalopes/pen/MWpQOPL">Link to Code</a> </td>
 </tr>
+  <tr>
+      <th scope="row">x</th>
+          <td>8 hour crash course JS </td>
+          <td> Challenges on github</td>
+          <td><a href="https://github.com/TiannaLopes/crashCourseJS"> View Result</a> </td>
+          <td><a href="hhttps://github.com/TiannaLopes/crashCourseJS"> Link to Code</a> </td>
+      </tr>
       <tr>
       <th scope="row">x</th>
           <td>Extra Practice </td>
