@@ -156,9 +156,30 @@ function Homeworks() {
       <th scope="row">x</th>
           <td>Extra Practice </td>
           <td>Extra practice for Javascript </td>
-          <td><a href="https://codepen.io/tiannalopes/pen/OJpOQqg"> View Result</a> </td>
-          <td><a href="https://github.com/TiannaLopes/extraPracticeJS.git"> Link to Code</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/embed/oNZdRGo/?theme-id=modal#result-box"> Tournament Winners</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/wvJjZeP"> Array of Products</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/ZEeowZL">Permutation - Recursion</a> </td>
       </tr>
+<tr>
+      <th scope="row">x</th>
+     <td>Extra Practice </td>
+     <td>Extra practice for Javascript </td>
+<td><a href="https://codepen.io/tiannalopes/pen/WNpJPMV"> Monotonic Array</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/ExWLrbW"> Generate Div Tags</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/QWprYKR"> Caesar Cipher</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/MWpVwEJ"> Palidrome</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/JjWpLgG"> Three Number Sum</a> </td>
+</tr>
+<tr>
+<th scope="row">x</th>
+     <td>Extra Practice </td>
+     <td>Extra practice for Javascript </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/GRWQxNq"> Difference between product of digits and sum of digits</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/dyvJrmX"> Nth Fibonacci</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/dyvJrmX"> Zig Zag Traversal</a> </td>
+          <td ><a href="https://codepen.io/tiannalopes/pen/eYvyJbW"> Two Num Sum</a> </td>
+
+</tr>
       </tbody>
     </Table>
         </Container>
