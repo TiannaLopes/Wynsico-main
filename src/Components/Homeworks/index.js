@@ -138,9 +138,35 @@ function Homeworks() {
           <td><a href="https://codepen.io/tiannalopes/pen/MWpVwEJ"> View Result</a> </td>
           <td><a href="https://codepen.io/tiannalopes/pen/MWpVwEJ">Link to Code</a> </td>
 </tr>
-    <tr>
+ <tr>
           <th scope="row">16</th>
           <td>Homework 10.1</td>
+          <td> CSS grid</td>
+          <td><a href="https://codepen.io/tiannalopes/pen/BaWVZJo"> View Result</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/BaWVZJo">Link to Code</a> </td>
+</tr> <tr>
+          <th scope="row">17</th>
+          <td>Homework 10.2</td>
+          <td> Lottery Project</td>
+          <td><a href="https://codepen.io/tiannalopes/pen/abJKwYj"> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/lotteryPicker">Link to Code</a> </td>
+</tr> <tr>
+          <th scope="row">18</th>
+          <td>Homework 10.3</td>
+          <td> Javascript Practice Tasks</td>
+          <td><a href=""> View Result</a> </td>
+          <td><a href="">Link to Code</a> </td>
+</tr>
+ <tr>
+          <th scope="row">19</th>
+          <td>Homework 10.4</td>
+          <td> Hawaii Color Picker</td>
+          <td><a href=""> View Result</a> </td>
+          <td><a href="">Link to Code</a> </td>
+</tr>
+    <tr>
+          <th scope="row">x</th>
+          <td>Homework 11.1</td>
           <td> HTML Question</td>
           <td><a href="https://codepen.io/tiannalopes/pen/MWpQOPL"> View Result</a> </td>
           <td><a href="https://codepen.io/tiannalopes/pen/MWpQOPL">Link to Code</a> </td>
