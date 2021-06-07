@@ -154,14 +154,14 @@ function Homeworks() {
           <th scope="row">18</th>
           <td>Homework 10.3</td>
           <td> Javascript Practice Tasks</td>
-          <td><a href=""> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/strings-Numbers-javascript"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/strings-Numbers-javascript">Link to Code</a> </td>
 </tr>
  <tr>
           <th scope="row">19</th>
           <td>Homework 10.4</td>
           <td> Hawaii Color Picker</td>
-          <td><a href=""> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/hawaiiColorPicker"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/hawaiiColorPicker">Link to Code</a> </td>
 </tr>
     <tr>
@@ -206,6 +206,15 @@ function Homeworks() {
           <td ><a href="https://codepen.io/tiannalopes/pen/eYvyJbW"> Two Num Sum</a> </td>
 
 </tr>
+<tr>
+<th scope="row">x</th>
+     <td>Extra Practice </td>
+     <td>Extra practice for Javascript </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/NWpzyvo?editors=0010"> Balanced Brackets</a> </td>
+
+
+</tr>
+
       </tbody>
     </Table>
         </Container>
