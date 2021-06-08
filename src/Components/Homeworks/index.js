@@ -154,19 +154,26 @@ function Homeworks() {
           <th scope="row">18</th>
           <td>Homework 10.3</td>
           <td> Javascript Practice Tasks</td>
-          <td><a href="https://github.com/TiannaLopes/strings-Numbers-javascript"> View Result</a> </td>
+          <td><a href="https://codepen.io/tiannalopes/pen/mdWKjod?editors=1111"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/strings-Numbers-javascript">Link to Code</a> </td>
 </tr>
  <tr>
           <th scope="row">19</th>
           <td>Homework 10.4</td>
-          <td> Hawaii Color Picker</td>
+          <td>Hawaii Color Picker</td>
           <td><a href="https://github.com/TiannaLopes/hawaiiColorPicker"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/hawaiiColorPicker">Link to Code</a> </td>
 </tr>
+ <tr>
+          <th scope="row">19</th>
+          <td>Homework 11.1</td>
+          <td>  Array Methods</td>
+          <td><a href="https://github.com/TiannaLopes/ArrayMethods"> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/ArrayMethods">Link to Code</a> </td>
+</tr>
     <tr>
           <th scope="row">x</th>
-          <td>Homework 11.1</td>
+          <td>Homework</td>
           <td> HTML Question</td>
           <td><a href="https://codepen.io/tiannalopes/pen/MWpQOPL"> View Result</a> </td>
           <td><a href="https://codepen.io/tiannalopes/pen/MWpQOPL">Link to Code</a> </td>
