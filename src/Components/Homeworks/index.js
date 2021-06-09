@@ -175,7 +175,7 @@ function Homeworks() {
           <th scope="row">20</th>
           <td>Homework 12.1</td>
           <td> Carousel React </td>
-          <td><a href="https://github.com/TiannaLopes/carousel"> View Result</a> </td>
+          <td><a href="https://carousel-tiannna-lopes.netlify.app/"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/carousel">Link to Code</a> </td>
 </tr>
     <tr>
