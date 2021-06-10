@@ -178,6 +178,15 @@ function Homeworks() {
           <td><a href="https://carousel-tiannna-lopes.netlify.app/"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/carousel">Link to Code</a> </td>
 </tr>
+<tr>
+          <th scope="row">21</th>
+          <td>Personal page</td>
+          <td> Portfolio Page </td>
+          <td><a href="https://github.com/TiannaLopes/profileAlinaLopes"> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/profileAlinaLopes">Link to Code</a> </td>
+</tr>
+
+
     <tr>
           <th scope="row">x</th>
           <td>Homework</td>
