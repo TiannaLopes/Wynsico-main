@@ -185,6 +185,20 @@ function Homeworks() {
           <td><a href="https://github.com/TiannaLopes/profileAlinaLopes"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/profileAlinaLopes">Link to Code</a> </td>
 </tr>
+<tr>
+          <th scope="row">22</th>
+          <td>Homeowrk 13.1</td>
+          <td> Simple React Page-FireHouse </td>
+          <td><a href="https://github.com/TiannaLopes/fireHouseMag"> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/fireHouseMag">Link to Code</a> </td>
+</tr>
+<tr>
+          <th scope="row">23</th>
+          <td>Homwork 13.2</td>
+          <td> Quiz Starter Hooks </td>
+          <td><a href="https://github.com/TiannaLopes/fireHouseMag"> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/fireHouseMag">Link to Code</a> </td>
+</tr>
 
 
     <tr>
