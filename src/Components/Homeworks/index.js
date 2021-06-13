@@ -196,8 +196,8 @@ function Homeworks() {
           <th scope="row">23</th>
           <td>Homwork 13.2</td>
           <td> Quiz Starter Hooks </td>
-          <td><a href="https://github.com/TiannaLopes/fireHouseMag"> View Result</a> </td>
-          <td><a href="https://github.com/TiannaLopes/fireHouseMag">Link to Code</a> </td>
+          <td><a href="https://github.com/TiannaLopes/hooksQuiz"> View Result</a> </td>
+          <td><a href="https://github.com/TiannaLopes/hooksQuiz">Link to Code</a> </td>
 </tr>
 
 
