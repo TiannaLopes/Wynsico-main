@@ -175,33 +175,34 @@ function Homeworks() {
           <th scope="row">20</th>
           <td>Homework 12.1</td>
           <td> Carousel React </td>
-          <td><a href="https://carousel-tiannna-lopes.netlify.app/"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/carousel">Link to Code</a> </td>
 </tr>
 
 <tr>
           <th scope="row">21</th>
-          <td>Homeowrk 13.1</td>
+          <td>Homework 13.1</td>
           <td> Simple React Page-FireHouse </td>
-          <td><a href="https://github.com/TiannaLopes/fireHouseMag"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/fireHouseMag">Link to Code</a> </td>
 </tr>
 <tr>
           <th scope="row">22</th>
-          <td>Homeowrk 13.1</td>
+          <td>Homework 13.1</td>
           <td> Magazine </td>
-          <td><a href="https://github.com/TiannaLopes/magazine"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/magazine">Link to Code</a> </td>
 </tr>
 <tr>
           <th scope="row">23</th>
           <td>Homwork 13.2</td>
           <td> Quiz Starter Hooks </td>
-          <td><a href="https://github.com/TiannaLopes/hooksQuiz"> View Result</a> </td>
           <td><a href="https://github.com/TiannaLopes/hooksQuiz">Link to Code</a> </td>
 </tr>
 
-
+  <tr>
+          <th scope="row">x</th>
+          <td>Homework</td>
+          <td> Task Tracker</td>
+          <td><a href="https://github.com/TiannaLopes/taskTrackerApp">Link to Code</a> </td>
+</tr>
     <tr>
           <th scope="row">x</th>
           <td>Homework</td>
