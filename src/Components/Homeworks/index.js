@@ -225,7 +225,7 @@ function Homeworks() {
           <td><a href="https://codepen.io/tiannalopes/pen/wvJjZeP"> Array of Products</a> </td>
           <td><a href="https://codepen.io/tiannalopes/pen/ZEeowZL">Permutation - Recursion</a> </td>
       </tr>
-<tr>
+{/* <tr>
       <th scope="row">x</th>
      <td>Extra Practice </td>
      <td>Extra practice for Javascript </td>
@@ -252,7 +252,7 @@ function Homeworks() {
           <td><a href="https://codepen.io/tiannalopes/pen/NWpzyvo?editors=0010"> Balanced Brackets</a> </td>
 
 
-</tr>
+</tr> */}
 
       </tbody>
     </Table>
